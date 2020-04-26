@@ -9,6 +9,18 @@ a {
 a:hover {
 	text-decoration: underline; 
 }
-<img {
-	padding-top: 20xp
+h2 {
+	padding-left: 79px;
+
+}
+img {
+	margin-left: 50px;
+	border: 1px solid black;
+	border-radius: 70px;
+}
+div {
+	border-radius: 50px;
+}
+.border {
+	border: 1px solid black;
 }
